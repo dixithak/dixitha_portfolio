@@ -1,5 +1,5 @@
 #  Welcome to Dixitha's Portfolio
-![](https://github.com/dixithak/dixitha_portfolio/blob/main/images/wp6830287.gif)
+![](https://github.com/dixithak/dixitha_portfolio/blob/main/images/0_jIs_tZgkrfut42KS.jpg)
 
 # Obstacle Detector
 * A Deep Learning based IOT project which identifies 80 different objects (YOLO) using the Pi camera, calculates distance for humans (Haar) and 
