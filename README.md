@@ -19,9 +19,10 @@ and have hired us to analyze their data. They are interested in how understandin
 
 
 
-## Obstacle Detector
+## [Obstacle Detector](https://github.com/dixithak/Object-Detector-for-visually-impaired-with-distance-calculation-for-humans)
 * A Deep Learning based IOT project which identifies 80 different objects (YOLO) using the Pi camera, calculates distance for humans (Haar) and 
-  reads out the type of object and distance for humans. Written in Python, using OpenCV.
+  reads out the type of object and distance for humans.
+* Python, OpenCV.
 
 
 
