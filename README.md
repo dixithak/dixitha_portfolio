@@ -2,7 +2,7 @@
 ![](/images/0_jIs_tZgkrfut42KS.jpg)
 
 
-## European Hotels Group- A thorough Data Analysis
+## [European Hotels Group- A thorough Data Analysis](https://github.com/dixithak/European_Hotels_Group-A_thorough_Data_Analysis)
 * The European Hotels Group has always believed that the best way to maximize its revenue is to have a number of hotel properties, in a variety of settings, to accommodate a wide range of travellers. They currently have hotels located in cities and resort locations.The new owners are not certain this is the correct business strategy for the future, 
 and have hired us to analyze their data. They are interested in how understanding each property is performing individually over time, and to compare how each property is performing compared to the other over time.
 * Linear Model , SVM, Text Mining, Association Rules Mining, ggplot
