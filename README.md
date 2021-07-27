@@ -1,6 +1,20 @@
 #  Welcome to Dixitha's Portfolio
 ![](/images/0_jIs_tZgkrfut42KS.jpg)
 
+
+## European Hotels Group- A thorough Data Analysis
+* The European Hotels Group has always believed that the best way to maximize its revenue is to have a number of hotel properties, in a variety of settings, to accommodate a wide range of travellers. They currently have hotels located in cities and resort locations.The new owners are not certain this is the correct business strategy for the future, 
+and have hired us to analyze their data. They are interested in how understanding each property is performing individually over time, and to compare how each property is performing compared to the other over time.
+* Linear Model , SVM, Text Mining, Association Rules Mining, ggplot
+* R - Language
+
+## Soccer Transfers
+* A powerapps application in which multiple soccer teams with players along with a manager each are present.
+* For each player multiple teams can bid. The bid will be accepted /rejected/stalled by the manager. Highest bids,greater than the current highest bid, only will be accepted.
+* When a bid is accepted, the player will be moved to the new team and his profile will be updated
+* SQL, PowerApps
+
+
 ## Obstacle Detector
 * A Deep Learning based IOT project which identifies 80 different objects (YOLO) using the Pi camera, calculates distance for humans (Haar) and 
   reads out the type of object and distance for humans. Written in Python, using OpenCV.
